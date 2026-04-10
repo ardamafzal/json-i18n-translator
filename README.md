@@ -37,3 +37,4 @@ This tool guarantees:
   "welcome": "Bon retour, {name}",
   "messages": "Vous avez {count} nouveaux messages"
 }
+<img width="1017" height="787" alt="image" src="https://github.com/user-attachments/assets/5e55285b-1f34-4d89-90b4-3c5b8fa39b42" />
