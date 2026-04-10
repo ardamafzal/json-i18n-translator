@@ -1,8 +1,5 @@
 # JSON i18n Translator
 
-<img width="1017" height="787" alt="image" src="https://github.com/user-attachments/assets/dd024cc4-9696-4385-871f-d3bf332bd846" />
-
-
 Translate JSON i18n files without breaking keys or placeholders.
 
 ## Problem
@@ -23,6 +20,8 @@ This tool guarantees:
 - ✅ Placeholders intact  
 - ✅ Valid JSON  
 - ✅ Ready-to-use output  
+
+<img width="1017" height="787" alt="image" src="https://github.com/user-attachments/assets/3259aba7-cac2-4c36-ac58-1839ec07753a" />
 
 ## Try it
 
