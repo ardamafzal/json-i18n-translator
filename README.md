@@ -1,5 +1,8 @@
 # JSON i18n Translator
 
+<img width="1017" height="787" alt="image" src="https://github.com/user-attachments/assets/dd024cc4-9696-4385-871f-d3bf332bd846" />
+
+
 Translate JSON i18n files without breaking keys or placeholders.
 
 ## Problem
@@ -37,8 +40,3 @@ This tool guarantees:
   "welcome": "Bon retour, {name}",
   "messages": "Vous avez {count} nouveaux messages"
 }
-
-
-
-<img width="1017" height="787" alt="image" src="https://github.com/user-attachments/assets/d922ad25-4d42-4c50-8506-d31f4b8c6eed" />
-
