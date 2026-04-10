@@ -67,14 +67,4 @@ This tool guarantees:
 ![Demo](./screenshot.png)
 
 ## Try it
-
-👉 (https://localizejson.lovable.app)
-
-## Example
-
-**Input**
-```json
-{
-  "welcome": "Welcome {name}",
-  "messages": "You have {count} new messages"
-}
+(https://localizejson.lovable.app)
