@@ -25,7 +25,7 @@ This tool guarantees:
 
 ## Try it
 
-👉 https://localizejson.lovable.app
+ https://localizejson.lovable.app
 
 ## Example
 
